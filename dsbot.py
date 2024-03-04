@@ -2,6 +2,7 @@ import discord
 from discord.ext import commands
 import mysql.connector
 import os
+import keep_alive
 # Connect to MySQL database
 
 host=os.environ.get("host")
@@ -174,4 +175,5 @@ async def top(interaction: discord.Interaction, field: str):
 
     cursor.close()
     connection.close()
+keep_alive.keep_alive()
 bot.run(token)

@@ -1,4 +1,0 @@
-discord
-mysql
-mysql-connector-python
-flask

